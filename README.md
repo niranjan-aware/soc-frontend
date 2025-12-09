@@ -72,3 +72,5 @@ export default defineConfig([
 ])
 ```
 # soc-frontend
+# solilos-frontend
+# solilos-frontend
